@@ -52,7 +52,6 @@ for filename in os.listdir(oldfilefolder):
     
     # Check if the item is a file & that the file ends with the required extension
     if os.path.isfile(oldpath) & (oldExt == requiredFileExtension):
-        print(oldpath)
         # Open the file in read mode
         with open(oldpath, 'r') as fread:
             # Read the lines of the file
