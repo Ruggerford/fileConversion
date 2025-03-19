@@ -18,5 +18,5 @@ Moving them one by one is very slow and they need appropriate header info for Ob
 # Notes
 - This program isn't limited to just converting Matlab to markdown files. By swapping a few values, you could probably convert pretty much any text-based file into another text-based file.
 - I am fully aware that there are far more robust programs that already exist to do this task.
-- This was just a hobby project to help me to learn python, and it succeeded in coverting the files I wanted it to.
+- This was just a hobby project to help me to learn python, and it succeeded in converting the files I wanted it to.
 - Use at your own descretion, I am _very_ unlikely to fix any issues.
